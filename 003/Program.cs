@@ -27,7 +27,7 @@ switch (act)
         Console.WriteLine("да");
         break;
     default:
-        Console.WriteLine("Ошибка ввода операции");
+        Console.WriteLine("Ошибка ввода, введите число от 1 до 7ми");
         break;
 }
 
